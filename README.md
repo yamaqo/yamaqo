@@ -1,8 +1,11 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats-git-main-yamaqos-projects.vercel.app/api/top-langs/?username=yamaqo&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Anurag's GitHub stats](https://github-readme-stats-git-main-yamaqos-projects.vercel.app/api?username=yamaqo&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats-git-main-yamaqos-projects.vercel.app/api?username=yamaqo" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats-git-main-yamaqos-projects.vercel.app/api/top-langs?username=yamaqo&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=yamaqo)](https://github.com/ryo-ma/github-profile-trophy)
 
