@@ -9,7 +9,7 @@
 
 <br />
 
-[![trophy](https://github-readme-stats-git-main-yamaqos-projects.vercel.app/?username=yamaqo&theme=oldie)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=yamaqo&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 - 🔭 I’m currently working on 
