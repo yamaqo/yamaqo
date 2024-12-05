@@ -4,10 +4,10 @@
   <img height=200 align="center" src="https://github-readme-stats-git-main-yamaqos-projects.vercel.app/api?username=yamaqo&theme=radical" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats-git-main-yamaqos-projects.vercel.app/api/top-langs?username=yamaqo&layout=compact&langs_count=8&card_width=320&theme=dark" />
+  <img height=200 align="center" src="https://github-readme-stats-git-main-yamaqos-projects.vercel.app/api/top-langs?username=yamaqo&layout=compact&langs_count=8&card_width=320&theme=merko" />
 </a>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=yamaqo)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-readme-stats-git-main-yamaqos-projects.vercel.app/?username=yamaqo?theme=dark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 - 🔭 I’m currently working on 
