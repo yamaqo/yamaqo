@@ -7,9 +7,9 @@
   <img height=200 align="center" src="https://github-readme-stats-git-main-yamaqos-projects.vercel.app/api/top-langs?username=yamaqo&layout=compact&langs_count=8&card_width=320&theme=merko" />
 </a>
 
-<div style="margin-top: 10px;">
-  [![trophy](https://github-readme-stats-git-main-yamaqos-projects.vercel.app/?username=yamaqo&theme=oldie)](https://github.com/ryo-ma/github-profile-trophy)
-</div>
+<br />
+
+[![trophy](https://github-readme-stats-git-main-yamaqos-projects.vercel.app/?username=yamaqo&theme=oldie)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 - 🔭 I’m currently working on 
