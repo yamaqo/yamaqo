@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=yamaqo&title=Commits,Experience&theme=olddie&margin-w=5)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=yamaqo&title=Commits,Experience&theme=oldie&margin-w=5)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 
 <a href="https://github.com/anuraghazra/github-readme-stats">
