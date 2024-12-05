@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats-git-main-yamaqos-projects.vercel.app/api?username=yamaqo" />
+  <img height=200 align="center" src="https://github-readme-stats-git-main-yamaqos-projects.vercel.app/api?username=yamaqo&theme=dark" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats-git-main-yamaqos-projects.vercel.app/api/top-langs?username=yamaqo&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats-git-main-yamaqos-projects.vercel.app/api/top-langs?username=yamaqo&layout=compact&langs_count=8&card_width=320&theme=dark" />
 </a>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=yamaqo)](https://github.com/ryo-ma/github-profile-trophy)
